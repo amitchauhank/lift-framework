@@ -147,7 +147,7 @@ This framework is licensed under **Creative Commons Attribution 4.0 Internationa
 
 You are free to use, share, and adapt this material for any purpose — including commercially — as long as you give appropriate credit.
 
-**Attribution:** LIFT Framework by Amit Chauhan — github.com/lift-framework
+**Attribution:** LIFT Framework by Amit Chauhan — github.com/amitchauhank/lift-framework
 
 ---
 
